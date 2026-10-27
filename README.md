@@ -23,6 +23,9 @@
 <a href="https://bizflow-ai-xi.vercel.app">
 <img src="https://img.shields.io/badge/🚀_BIZFLOW_AI-EXPLORE-0891B2?style=for-the-badge" />
 </a>
+<a href="https://john-charles-sarwi-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-VIEW_PROFILE-0F766E?style=for-the-badge" />
+</a>
 <a href="mailto:johncharlessarwi@gmail.com">
 <img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING_BIG-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
