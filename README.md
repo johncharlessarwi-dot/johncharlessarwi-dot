@@ -158,7 +158,7 @@ A pharmacy-management project designed around medicine inventory and pharmacy op
 - 🧾 Sales and reporting workflows
 - 🏢 Multi-branch operations
 
-<a href="https://github.com/johncharlessarwi-dot/wpms"><b>EXPLORE WPMS REPOSITORY ↗</b></a>
+<a href="https://github.com/johncharlessarwi-dot/PHARMACEUTICAL-MANAGEMENT-SYSYTEM"><b>EXPLORE PUBLIC PHARMAFLOW REPOSITORY ↗</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -182,6 +182,12 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 </table>
 
 <div align="center">
+
+### Additional public projects
+
+- [Campus Connect](https://github.com/johncharlessarwi-dot/campusconnectapp) — campus information and student support platform.
+- [SafeNet](https://github.com/johncharlessarwi-dot/safe-net) — network access and FreeRADIUS management project.
+- [MWECAU DigiVote](https://github.com/johncharlessarwi-dot/mwecau_digivote_laravel) — Laravel-based digital voting project.
 
 **The mission:** Build technology that makes real work easier.
 
