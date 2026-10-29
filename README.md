@@ -47,9 +47,11 @@
 
 </div>
 
-I'm a Computer Science student and technology entrepreneur passionate about transforming ideas into practical digital solutions.
+I'm **John Charles Sarwi**, a Computer Science undergraduate at **Mwenge Catholic University (MWECAU), Moshi, Tanzania**, and a **software developer in Tanzania** building full-stack web applications, AI-powered products, and practical business systems.
 
-I explore the intersection of software engineering, artificial intelligence, automation, and business technology. Through real-world projects, I'm working toward building products that solve meaningful problems and create opportunities.
+I build for two audiences: **recruiters and engineering teams** looking for an emerging software developer for internships, junior software roles, and remote opportunities; and **Tanzanian entrepreneurs, startups, and small and growing businesses** that need websites, custom software, POS/ERP platforms, or workflow automation through **JOHN ONLINE SERVICES AND APPLICATIONS**.
+
+My work explores software engineering, artificial intelligence, automation, and business technology. I share practical projects and development activity here, with a fuller overview, selected case studies, and contact details on my [official developer portfolio](https://john-charles-sarwi-portfolio.vercel.app/).
 
 - 🧠 Exploring AI-powered applications and intelligent workflows.
 - 💻 Building modern web applications and digital platforms.
