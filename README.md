@@ -26,6 +26,9 @@
 <a href="https://john-charles-sarwi-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-VIEW_PROFILE-0F766E?style=for-the-badge" />
 </a>
+<a href="https://www.freelancer.in/u/johnsarwi0002">
+<img src="https://img.shields.io/badge/FREELANCER-PROFILE-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+</a>
 <a href="mailto:johncharlessarwi@gmail.com">
 <img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING_BIG-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
