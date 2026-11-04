@@ -209,6 +209,15 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 Explore short animated cards for selected public repositories. Animations respect reduced-motion preferences.
 
+<details>
+<summary><strong>PharmaFlow</strong> — Pharmacy stock and expiry intelligence</summary>
+
+[![PharmaFlow animated project card](assets/readme/spotlight-01.svg)](https://github.com/johncharlessarwi-dot/pms_wambura)
+
+[Explore PharmaFlow repository](https://github.com/johncharlessarwi-dot/pms_wambura)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
