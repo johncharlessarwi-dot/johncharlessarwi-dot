@@ -281,6 +281,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>FPT Tracker</strong> — Practical training check-ins</summary>
+
+[![FPT Tracker animated project card](assets/readme/spotlight-09.svg)](https://github.com/johncharlessarwi-dot/ismani_fpt_att)
+
+[Explore FPT Tracker repository](https://github.com/johncharlessarwi-dot/ismani_fpt_att)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
