@@ -227,6 +227,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>CampusConnect</strong> — Student directions and campus discovery</summary>
+
+[![CampusConnect animated project card](assets/readme/spotlight-03.svg)](https://github.com/johncharlessarwi-dot/campusconnectapp)
+
+[Explore CampusConnect repository](https://github.com/johncharlessarwi-dot/campusconnectapp)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
