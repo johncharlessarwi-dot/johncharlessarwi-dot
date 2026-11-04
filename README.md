@@ -290,6 +290,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>AgrovetOS</strong> — Agrovet inventory workflows</summary>
+
+[![AgrovetOS animated project card](assets/readme/spotlight-10.svg)](https://github.com/johncharlessarwi-dot/bhoke-agrovert-sytem)
+
+[Explore AgrovetOS repository](https://github.com/johncharlessarwi-dot/bhoke-agrovert-sytem)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
