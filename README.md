@@ -254,6 +254,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>Tourism Agent</strong> — Intelligent tourism planning</summary>
+
+[![Tourism Agent animated project card](assets/readme/spotlight-06.svg)](https://github.com/johncharlessarwi-dot/agentic-tourism-platform)
+
+[Explore Tourism Agent repository](https://github.com/johncharlessarwi-dot/agentic-tourism-platform)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
