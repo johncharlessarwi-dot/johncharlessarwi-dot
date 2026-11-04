@@ -263,6 +263,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>SafeNet</strong> — Network access management</summary>
+
+[![SafeNet animated project card](assets/readme/spotlight-07.svg)](https://github.com/johncharlessarwi-dot/safe-net)
+
+[Explore SafeNet repository](https://github.com/johncharlessarwi-dot/safe-net)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
