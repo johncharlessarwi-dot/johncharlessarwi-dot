@@ -192,6 +192,9 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 ### Additional public projects
 
+- [FPT Attendance Tracker](https://github.com/johncharlessarwi-dot/ismani_fpt_att) — Flask trainee attendance registration with server-side validation.
+- [John Attendance System](https://github.com/johncharlessarwi-dot/JOHN-ATTENDANCE-SYSTEM) — attendance management components and utilities.
+
 - [Campus Connect](https://github.com/johncharlessarwi-dot/campusconnectapp) — campus information and student support platform.
 - [SafeNet](https://github.com/johncharlessarwi-dot/safe-net) — network access and FreeRADIUS management project.
 - [MWECAU DigiVote](https://github.com/johncharlessarwi-dot/mwecau_digivote_laravel) — Laravel-based digital voting project.
