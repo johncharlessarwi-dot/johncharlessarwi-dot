@@ -308,6 +308,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>Academic AI</strong> — Computer science study tools</summary>
+
+[![Academic AI animated project card](assets/readme/spotlight-12.svg)](https://github.com/johncharlessarwi-dot/john-computer-science-academic-assistant)
+
+[Explore Academic AI repository](https://github.com/johncharlessarwi-dot/john-computer-science-academic-assistant)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
