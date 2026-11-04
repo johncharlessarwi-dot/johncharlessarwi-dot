@@ -248,7 +248,7 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 </div>
 
-> **Setup note:** This animation requires a GitHub Actions workflow to generate the SVG and publish it to an `output` branch. If the image is missing, configure the workflow in your profile repository.
+> **Animation status:** The `Generate contribution snake` GitHub Actions workflow can be run manually from Actions and is also scheduled daily. The graphic appears after the first successful workflow run publishes the `output` branch.
 
 ---
 
