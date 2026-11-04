@@ -236,6 +236,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>SmartVote</strong> — Digital election workflow concepts</summary>
+
+[![SmartVote animated project card](assets/readme/spotlight-04.svg)](https://github.com/johncharlessarwi-dot/smartvote-platform)
+
+[Explore SmartVote repository](https://github.com/johncharlessarwi-dot/smartvote-platform)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
