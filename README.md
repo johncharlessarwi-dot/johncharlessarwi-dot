@@ -272,6 +272,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>Attendance</strong> — Student attendance utilities</summary>
+
+[![Attendance animated project card](assets/readme/spotlight-08.svg)](https://github.com/johncharlessarwi-dot/JOHN-ATTENDANCE-SYSTEM)
+
+[Explore Attendance repository](https://github.com/johncharlessarwi-dot/JOHN-ATTENDANCE-SYSTEM)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
