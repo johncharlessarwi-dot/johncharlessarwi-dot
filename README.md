@@ -245,6 +245,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>BizFlow AI</strong> — Business operations and analytics</summary>
+
+[![BizFlow AI animated project card](assets/readme/spotlight-05.svg)](https://github.com/johncharlessarwi-dot/bizflow-ai)
+
+[Explore BizFlow AI repository](https://github.com/johncharlessarwi-dot/bizflow-ai)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
