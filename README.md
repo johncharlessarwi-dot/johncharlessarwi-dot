@@ -205,6 +205,14 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 ---
 
+## Featured collaboration paths
+
+- **Software development opportunities:** [Developer portfolio](https://john-charles-sarwi-portfolio.vercel.app/) and [email](mailto:johncharlessarwi@gmail.com).
+- **Business websites and systems:** [JOHN ONLINE SERVICES](https://v0-john-online-services-and-applications.vercel.app/) and [WhatsApp](https://wa.me/255698170989).
+- **Open-source collaboration:** [Public repositories](https://github.com/johncharlessarwi-dot?tab=repositories) and project-specific issues or pull requests.
+
+---
+
 ## `04` — GITHUB PERFORMANCE CENTER
 
 <div align="center">
