@@ -299,6 +299,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>DigiVote</strong> — University election management</summary>
+
+[![DigiVote animated project card](assets/readme/spotlight-11.svg)](https://github.com/johncharlessarwi-dot/mwecau_digivote_laravel)
+
+[Explore DigiVote repository](https://github.com/johncharlessarwi-dot/mwecau_digivote_laravel)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
