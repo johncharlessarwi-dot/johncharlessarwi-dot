@@ -205,6 +205,14 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 ---
 
+## Animated project spotlights
+
+Explore short animated cards for selected public repositories. Animations respect reduced-motion preferences.
+
+<!-- PROJECT_SPOTLIGHTS -->
+
+---
+
 ## Featured collaboration paths
 
 - **Software development opportunities:** [Developer portfolio](https://john-charles-sarwi-portfolio.vercel.app/) and [email](mailto:johncharlessarwi@gmail.com).
