@@ -165,7 +165,7 @@ A pharmacy-management project designed around medicine inventory and pharmacy op
 - 🧾 Sales and reporting workflows
 - 🏢 Multi-branch operations
 
-<a href="https://github.com/johncharlessarwi-dot/PHARMACEUTICAL-MANAGEMENT-SYSYTEM"><b>EXPLORE PUBLIC PHARMAFLOW REPOSITORY ↗</b></a>
+<a href="https://github.com/johncharlessarwi-dot/pms_wambura"><b>EXPLORE PUBLIC PHARMAFLOW REPOSITORY ↗</b></a>
 
 </td>
 <td width="50%" valign="top">
