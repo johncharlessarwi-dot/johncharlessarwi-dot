@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/readme/project-motion.svg" width="100%" alt="JOHN CHARLES SARWI animated overview banner" />
+</div>
+
  <div align="center">
 
 <!-- JOHN CHARLES SARWI — SIGNATURE BRAND -->
