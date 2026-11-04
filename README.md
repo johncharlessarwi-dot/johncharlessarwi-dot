@@ -218,6 +218,15 @@ Explore short animated cards for selected public repositories. Animations respec
 
 </details>
 
+<details>
+<summary><strong>JobCraft AI</strong> — Career documents and AI workflows</summary>
+
+[![JobCraft AI animated project card](assets/readme/spotlight-02.svg)](https://github.com/johncharlessarwi-dot/JOB-CRAFT-AGENTIC-AI)
+
+[Explore JobCraft AI repository](https://github.com/johncharlessarwi-dot/JOB-CRAFT-AGENTIC-AI)
+
+</details>
+
 <!-- PROJECT_SPOTLIGHTS -->
 
 ---
