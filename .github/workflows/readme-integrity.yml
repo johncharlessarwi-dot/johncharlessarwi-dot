@@ -6,6 +6,9 @@ on:
       - README.md
       - assets/readme/**
       - .github/workflows/readme-integrity.yml
+      - scripts/**
+      - tests/**
+      - package.json
   pull_request:
     paths:
       - README.md
@@ -26,6 +29,12 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Run profile asset and security checks
+        run: npm run check
       - name: Validate README and local animation
         shell: bash
         run: |
