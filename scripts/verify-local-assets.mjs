@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs";
 import { resolve, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const ROOT = fileURLToPath(new URL("../", import.meta.url));
+const ROOT = resolve(fileURLToPath(new URL("../", import.meta.url)));
 
 /** Extract local assets used by Markdown images, links and HTML img tags. */
 export function localAssetPaths(readme) {
@@ -17,12 +17,13 @@ export function localAssetPaths(readme) {
 export function checkLocalAssets(readme, root = ROOT, exists = existsSync) {
   const failures = [];
   if (!readme.trim()) failures.push("README.md must not be empty");
+  const base = resolve(root);
   for (const asset of localAssetPaths(readme)) {
     let decoded;
     try { decoded = decodeURIComponent(asset.split(/[?#]/)[0]); }
     catch { failures.push("Invalid URL encoding: " + asset); continue; }
-    const absolute = resolve(root, decoded);
-    if (!absolute.startsWith(root + sep) || !exists(absolute)) {
+    const absolute = resolve(base, decoded);
+    if (!absolute.startsWith(base + sep) || !exists(absolute)) {
       failures.push("Missing or unsafe local asset: " + asset);
     }
   }
