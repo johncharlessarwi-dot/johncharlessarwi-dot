@@ -9,6 +9,10 @@ on:
       - scripts/**
       - tests/**
       - package.json
+      - docs/**
+      - CONTRIBUTING.md
+      - .github/ISSUE_TEMPLATE/**
+      - .github/pull_request_template.md
   pull_request:
     paths:
       - README.md
