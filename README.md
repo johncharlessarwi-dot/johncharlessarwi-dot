@@ -5,6 +5,7 @@
  <div align="center">
 
 <!-- JOHN CHARLES SARWI — SIGNATURE BRAND -->
+<p><a href="#about">About</a> · <a href="#toolkit">Skills</a> · <a href="#projects">Projects</a> · <a href="#contact">Contact</a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0B1120,45:172554,70:4C1D95,100:06B6D4&text=JOHN%20CHARLES%20SARWI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20TECH%20ENTREPRENEUR&descSize=13&descAlignY=55&animation=fadeIn" />
 
@@ -43,6 +44,7 @@
 
 <div align="center">
 
+<a id="about"></a>
 ### `01` — THE PERSON BEHIND THE CODE
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding animation"/>
@@ -75,6 +77,7 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 ---
 
+<a id="toolkit"></a>
 ## `02` — MY DIGITAL ARMORY
 
 <div align="center">
@@ -102,6 +105,7 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 ---
 
+<a id="projects"></a>
 ## `03` — THE PROJECT MULTIVERSE
 
 <div align="center">
@@ -420,6 +424,7 @@ I don't need to know everything today. I need to keep learning, building, and im
 
 ---
 
+<a id="contact"></a>
 ## `07` — LET'S CONNECT 🌍
 
 <div align="center">
