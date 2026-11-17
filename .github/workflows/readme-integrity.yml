@@ -18,6 +18,13 @@ on:
       - README.md
       - assets/readme/**
       - .github/workflows/readme-integrity.yml
+      - scripts/**
+      - tests/**
+      - package.json
+      - docs/**
+      - CONTRIBUTING.md
+      - .github/ISSUE_TEMPLATE/**
+      - .github/pull_request_template.md
   workflow_dispatch:
 
 permissions:
