@@ -207,7 +207,7 @@ My digital-services initiative supporting students, job seekers, graduates, and 
 
 ## Animated project spotlights
 
-Explore short animated cards for selected public repositories. Animations respect reduced-motion preferences.
+Explore short animated cards for selected projects. **PUBLIC REPO** cards link to open source; **PRIVATE REPO** cards may require access. The animations have static content and local reduced-motion handling.
 
 <details>
 <summary><strong>PharmaFlow</strong> — Pharmacy stock and expiry intelligence</summary>
