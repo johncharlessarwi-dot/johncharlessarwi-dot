@@ -1,12 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="164" viewBox="0 0 820 164" role="img" aria-labelledby="title desc">
-<title id="title">PharmaFlow</title><desc id="desc">Pharmacy stock and expiry intelligence. Animated project spotlight.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#172554"/></linearGradient></defs>
-<rect width="820" height="164" rx="18" fill="url(#bg)"/>
-<rect x="12" y="12" width="796" height="140" rx="12" fill="none" stroke="#22c55e" stroke-opacity=".5" stroke-width="2"/>
-<circle cx="55" cy="82" r="22" fill="#22c55e" opacity=".25"><animate attributeName="r" values="18;28;18" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="55" cy="82" r="8" fill="#22c55e"/>
-<text x="98" y="72" fill="#f8fafc" font-family="Arial,sans-serif" font-size="29" font-weight="bold">PharmaFlow</text>
-<text x="98" y="106" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="17">Pharmacy stock and expiry intelligence</text>
-<path d="M99 126 H720" stroke="#22c55e" stroke-width="3" stroke-linecap="round" stroke-dasharray="90 500"><animate attributeName="stroke-dashoffset" from="590" to="0" dur="4s" repeatCount="indefinite"/></path>
-<style>@media (prefers-reduced-motion: reduce) { animate { display:none } }</style>
+<title id="title">PharmaFlow project spotlight</title>
+<desc id="desc">PHARMACY • INVENTORY. Batch tracking, stock and expiry intelligence. private repo.</desc>
+<defs><linearGradient id="shade1" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".65" stop-color="#111d33"/><stop offset="1" stop-color="#10293a"/></linearGradient></defs>
+<rect width="820" height="164" rx="18" fill="url(#shade1)"/>
+<rect x="11" y="11" width="798" height="142" rx="12" fill="none" stroke="#4ade80" stroke-opacity=".47" stroke-width="2"/>
+<path d="M136 126H764" stroke="#4ade80" stroke-opacity=".27" stroke-width="2"/>
+<circle cx="81" cy="81" r="52" fill="#4ade80" opacity=".07"/>
+<g transform="rotate(-24 72 82)"><rect x="42" y="69" width="62" height="27" rx="13.5" fill="none" stroke="#4ade80" stroke-width="4"/><path d="M73 69V96" stroke="#4ade80" stroke-width="3"/><path d="M45 83H70" stroke="#4ade80" stroke-width="3"/></g>
+<text x="144" y="46" fill="#4ade80" font-size="12" font-family="Arial,sans-serif" font-weight="700" letter-spacing="1.8">PHARMACY • INVENTORY</text>
+<text x="144" y="85" fill="#f8fafc" font-size="29" font-family="Arial,sans-serif" font-weight="700">PharmaFlow</text>
+<text x="144" y="112" fill="#cbd5e1" font-size="16" font-family="Arial,sans-serif">Batch tracking, stock and expiry intelligence</text>
+<rect x="670" y="23" width="120" height="23" rx="11.5" fill="#4ade80" fill-opacity=".14"/>
+<text x="730" y="39" fill="#4ade80" font-size="11" font-family="Arial,sans-serif" text-anchor="middle" font-weight="700">PRIVATE REPO</text>
+<circle cx="783" cy="130" r="4" fill="#4ade80"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+<style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style>
 </svg>
