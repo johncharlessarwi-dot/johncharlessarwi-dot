@@ -7,35 +7,35 @@
 <!-- JOHN CHARLES SARWI — SIGNATURE BRAND -->
 <p><a href="#about">About</a> · <a href="#toolkit">Skills</a> · <a href="#projects">Projects</a> · <a href="#contact">Contact</a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0B1120,45:172554,70:4C1D95,100:06B6D4&text=JOHN%20CHARLES%20SARWI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20TECH%20ENTREPRENEUR&descSize=13&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0B1120,45:172554,70:4C1D95,100:06B6D4&text=JOHN%20CHARLES%20SARWI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20TECH%20ENTREPRENEUR&descSize=13&descAlignY=55&animation=fadeIn" alt="John Charles Sarwi, software developer and AI builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=I+DON'T+JUST+DREAM.+I+BUILD.;TURNING+IDEAS+INTO+DIGITAL+SOLUTIONS.;ARTIFICIAL+INTELLIGENCE+%2B+SOFTWARE.;BUILDING+FROM+TANZANIA+TO+THE+WORLD.;INNOVATE.+BUILD.+IMPACT.+REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=I+DON'T+JUST+DREAM.+I+BUILD.;TURNING+IDEAS+INTO+DIGITAL+SOLUTIONS.;ARTIFICIAL+INTELLIGENCE+%2B+SOFTWARE.;BUILDING+FROM+TANZANIA+TO+THE+WORLD.;INNOVATE.+BUILD.+IMPACT.+REPEAT." alt="Developer introduction: building practical digital solutions from Tanzania" />
 
 <br/>
 
 <a href="https://github.com/johncharlessarwi-dot">
-<img src="https://komarev.com/ghpvc/?username=johncharlessarwi-dot&style=for-the-badge&color=00F5FF&label=PROFILE+VISITS" />
+<img src="https://komarev.com/ghpvc/?username=johncharlessarwi-dot&style=for-the-badge&color=00F5FF&label=PROFILE+VISITS" alt="Profile visit counter" />
 </a>
 <a href="https://github.com/johncharlessarwi-dot?tab=followers">
-<img src="https://img.shields.io/github/followers/johncharlessarwi-dot?style=for-the-badge&logo=github&label=MY+COMMUNITY&color=7C3AED" />
+<img src="https://img.shields.io/github/followers/johncharlessarwi-dot?style=for-the-badge&logo=github&label=MY+COMMUNITY&color=7C3AED" alt="GitHub follower count" />
 </a>
 <a href="https://github.com/johncharlessarwi-dot?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Explore John's GitHub projects" />
 </a>
 
 <br/><br/>
 
 <a href="https://bizflow-ai-xi.vercel.app">
-<img src="https://img.shields.io/badge/🚀_BIZFLOW_AI-EXPLORE-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_BIZFLOW_AI-EXPLORE-0891B2?style=for-the-badge" alt="Explore BizFlow AI" />
 </a>
 <a href="https://john-charles-sarwi-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-VIEW_PROFILE-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-VIEW_PROFILE-0F766E?style=for-the-badge" alt="Visit official developer portfolio" />
 </a>
 <a href="https://www.freelancer.in/u/johnsarwi0002">
-<img src="https://img.shields.io/badge/FREELANCER-PROFILE-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+<img src="https://img.shields.io/badge/FREELANCER-PROFILE-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="View freelancer profile" />
 </a>
 <a href="mailto:johncharlessarwi@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING_BIG-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING_BIG-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email John about a project" />
 </a>
 
 </div>
