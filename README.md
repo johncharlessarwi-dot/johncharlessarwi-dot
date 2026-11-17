@@ -319,6 +319,26 @@ Explore short animated cards for selected public repositories. Animations respec
 
 <!-- PROJECT_SPOTLIGHTS -->
 
+### Engineering project notes
+
+Each short case study describes its problem, engineering focus, review criteria, and access status. These are project summaries, not claims of production readiness.
+
+| Project | Focus | Source access |
+| --- | --- | --- |
+| [PharmaFlow](docs/projects/pharmaflow.md) | Pharmacy inventory | Private |
+| [JobCraft AI](docs/projects/jobcraft-ai.md) | Career documents | Private |
+| [CampusConnect](docs/projects/campusconnect.md) | Student services | Public |
+| [SmartVote](docs/projects/smartvote.md) | Voting workflows | Public |
+| [BizFlow AI](docs/projects/bizflow.md) | Business intelligence | Private |
+| [SafariOS](docs/projects/safarios.md) | Tourism planning | Public |
+| [SafeNet](docs/projects/safenet.md) | Network access | Public |
+| [AFAMS](docs/projects/attendance.md) | Attendance | Public |
+| [FPT Tracker](docs/projects/fpt-tracker.md) | Practical training | Public |
+| [AgrovetOS](docs/projects/agrovetos.md) | Agrovet inventory | Private |
+| [MWECAU DigiVote](docs/projects/digivote.md) | Campus elections | Public |
+| [Academic AI](docs/projects/academic-ai.md) | Learning assistance | Public |
+
+
 ---
 
 ## Featured collaboration paths
