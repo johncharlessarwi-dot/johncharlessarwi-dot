@@ -1,12 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="164" viewBox="0 0 820 164" role="img" aria-labelledby="title desc">
-<title id="title">DigiVote</title><desc id="desc">University election management. Animated project spotlight.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#172554"/></linearGradient></defs>
-<rect width="820" height="164" rx="18" fill="url(#bg)"/>
-<rect x="12" y="12" width="796" height="140" rx="12" fill="none" stroke="#818cf8" stroke-opacity=".5" stroke-width="2"/>
-<circle cx="55" cy="82" r="22" fill="#818cf8" opacity=".25"><animate attributeName="r" values="18;28;18" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="55" cy="82" r="8" fill="#818cf8"/>
-<text x="98" y="72" fill="#f8fafc" font-family="Arial,sans-serif" font-size="29" font-weight="bold">DigiVote</text>
-<text x="98" y="106" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="17">University election management</text>
-<path d="M99 126 H720" stroke="#818cf8" stroke-width="3" stroke-linecap="round" stroke-dasharray="90 500"><animate attributeName="stroke-dashoffset" from="590" to="0" dur="5s" repeatCount="indefinite"/></path>
-<style>@media (prefers-reduced-motion: reduce) { animate { display:none } }</style>
+<title id="title">MWECAU DigiVote project spotlight</title>
+<desc id="desc">UNIVERSITY • ELECTIONS. Laravel voting workflows and ballot security. public repo.</desc>
+<defs><linearGradient id="shade11" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".65" stop-color="#111d33"/><stop offset="1" stop-color="#10293a"/></linearGradient></defs>
+<rect width="820" height="164" rx="18" fill="url(#shade11)"/>
+<rect x="11" y="11" width="798" height="142" rx="12" fill="none" stroke="#a5b4fc" stroke-opacity=".47" stroke-width="2"/>
+<path d="M136 126H764" stroke="#a5b4fc" stroke-opacity=".27" stroke-width="2"/>
+<circle cx="81" cy="81" r="52" fill="#a5b4fc" opacity=".07"/>
+<path d="M49 81h61l7 37H42Z" fill="none" stroke="#a5b4fc" stroke-width="4" stroke-linejoin="round"/><path d="M59 81 73 43h27l8 38M72 92h24M70 55l9 8 13-14" fill="none" stroke="#a5b4fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="144" y="46" fill="#a5b4fc" font-size="12" font-family="Arial,sans-serif" font-weight="700" letter-spacing="1.8">UNIVERSITY • ELECTIONS</text>
+<text x="144" y="85" fill="#f8fafc" font-size="29" font-family="Arial,sans-serif" font-weight="700">MWECAU DigiVote</text>
+<text x="144" y="112" fill="#cbd5e1" font-size="16" font-family="Arial,sans-serif">Laravel voting workflows and ballot security</text>
+<rect x="670" y="23" width="120" height="23" rx="11.5" fill="#a5b4fc" fill-opacity=".14"/>
+<text x="730" y="39" fill="#a5b4fc" font-size="11" font-family="Arial,sans-serif" text-anchor="middle" font-weight="700">PUBLIC REPO</text>
+<circle cx="783" cy="130" r="4" fill="#a5b4fc"><animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"/></circle>
+<style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style>
 </svg>
