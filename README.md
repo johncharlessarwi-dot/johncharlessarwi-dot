@@ -71,7 +71,7 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2300&pause=500&color=A78BFA&center=true&vCenter=true&width=800&lines=Ideas+are+the+beginning.;Execution+turns+ideas+into+reality.;Every+project+is+a+new+level.;My+journey+is+only+getting+started." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2300&pause=500&color=A78BFA&center=true&vCenter=true&width=800&lines=Ideas+are+the+beginning.;Execution+turns+ideas+into+reality.;Every+project+is+a+new+level.;My+journey+is+only+getting+started." alt="Ideas become results through execution" />
 
 </div>
 
@@ -84,22 +84,22 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 ### ⚡ Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs&theme=dark&perline=7" alt="Frontend: Python, JavaScript, TypeScript, HTML, CSS, React and Next.js" />
 
 ### 🛠️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mysql,sqlite,prisma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mysql,sqlite,prisma&theme=dark&perline=7" alt="Backend and databases: Node.js, Express, Flask, PostgreSQL, MySQL, SQLite and Prisma" />
 
 ### 🔥 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux,figma&theme=dark&perline=7" alt="Tools: Git, GitHub, VS Code, Vercel, Docker, Linux and Figma" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/AUTOMATION-0F766E?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20DEVELOPMENT-0369A1?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PRODUCT%20BUILDING-DB2777?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Artificial intelligence focus" />
+<img src="https://img.shields.io/badge/AUTOMATION-0F766E?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation focus" />
+<img src="https://img.shields.io/badge/API%20DEVELOPMENT-0369A1?style=for-the-badge&logo=fastapi&logoColor=white" alt="API development focus" />
+<img src="https://img.shields.io/badge/PRODUCT%20BUILDING-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Product building focus" />
 
 </div>
 
