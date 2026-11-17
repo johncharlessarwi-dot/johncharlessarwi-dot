@@ -418,6 +418,8 @@ class JohnCharlesSarwi:
 john = JohnCharlesSarwi()
 ```
 
+**Engineering quality loop:** define a real problem → make a focused change → test expected and failure paths → review security and accessibility → merge only when checks pass → measure what improved.
+
 **I believe consistency beats motivation without execution.**
 
 I don't need to know everything today. I need to keep learning, building, and improving.
