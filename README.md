@@ -396,7 +396,7 @@ Each short case study describes its problem, engineering focus, review criteria,
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1700&pause=400&color=00F5FF&center=true&vCenter=true&width=760&lines=THINK+BIG.;START+SMALL.;BUILD+CONSISTENTLY.;LEARN+FROM+FAILURE.;MAKE+EVERY+VERSION+BETTER." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1700&pause=400&color=00F5FF&center=true&vCenter=true&width=760&lines=THINK+BIG.;START+SMALL.;BUILD+CONSISTENTLY.;LEARN+FROM+FAILURE.;MAKE+EVERY+VERSION+BETTER." alt="Think big, start small, build consistently and improve" />
 
 </div>
 
@@ -431,18 +431,18 @@ I don't need to know everything today. I need to keep learning, building, and im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=HAVE+A+PROJECT+IDEA%3F;LET'S+TURN+IT+INTO+REALITY.;COLLABORATION+STARTS+HERE." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=HAVE+A+PROJECT+IDEA%3F;LET'S+TURN+IT+INTO+REALITY.;COLLABORATION+STARTS+HERE." alt="Have a project idea? Collaboration starts here" />
 
 <br/><br/>
 
 <a href="https://github.com/johncharlessarwi-dot">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-181717?style=for-the-badge&logo=github" alt="Visit GitHub profile" />
 </a>
 <a href="mailto:johncharlessarwi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email the developer" />
 </a>
 <a href="https://wa.me/255698170989">
-<img src="https://img.shields.io/badge/WHATSAPP-CONNECT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WHATSAPP-CONNECT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a WhatsApp conversation" />
 </a>
 
 <br/><br/>
@@ -461,9 +461,9 @@ I don't need to know everything today. I need to keep learning, building, and im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=650&color=00F5FF&center=true&vCenter=true&width=850&lines=THANK+YOU+FOR+VISITING.;KEEP+BUILDING.+KEEP+INNOVATING.;THE+FUTURE+IS+BUILT%2C+NOT+WISHED+FOR.;SEE+YOU+IN+THE+NEXT+COMMIT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=650&color=00F5FF&center=true&vCenter=true&width=850&lines=THANK+YOU+FOR+VISITING.;KEEP+BUILDING.+KEEP+INNOVATING.;THE+FUTURE+IS+BUILT%2C+NOT+WISHED+FOR.;SEE+YOU+IN+THE+NEXT+COMMIT." alt="Thank you for visiting and keep building" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:06B6D4,35:075985,70:4C1D95,100:020617&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:06B6D4,35:075985,70:4C1D95,100:020617&section=footer" alt="Decorative closing wave" />
 
 **JOHN CHARLES SARWI**  
 *Built with ambition, powered by curiosity, growing from Tanzania 🇹🇿*
