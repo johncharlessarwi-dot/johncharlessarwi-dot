@@ -110,7 +110,7 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=REAL+IDEAS.+DIGITAL+PRODUCTS.;ENGINEERED+TO+SOLVE+PROBLEMS.;WELCOME+TO+MY+BUILD+LAB." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=REAL+IDEAS.+DIGITAL+PRODUCTS.;ENGINEERED+TO+SOLVE+PROBLEMS.;WELCOME+TO+MY+BUILD+LAB." alt="Real digital products for practical problems" />
 
 </div>
 
@@ -120,7 +120,7 @@ My work explores software engineering, artificial intelligence, automation, and 
 
 <h3>🧠 BizFlow AI</h3>
 
-<img src="https://img.shields.io/badge/AI-BUSINESS%20INTELLIGENCE-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-BUSINESS%20INTELLIGENCE-0891B2?style=flat-square" alt="BizFlow AI business intelligence" />
 
 An AI-assisted business management project focused on helping businesses understand and organize their operations.
 
@@ -137,7 +137,7 @@ An AI-assisted business management project focused on helping businesses underst
 
 <h3>🗳️ SmartVote AI</h3>
 
-<img src="https://img.shields.io/badge/SMART-DIGITAL%20ELECTIONS-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/SMART-DIGITAL%20ELECTIONS-7C3AED?style=flat-square" alt="SmartVote digital election workflows" />
 
 A software project exploring digital election processes, structured information, and election-related data experiences.
 
@@ -157,7 +157,7 @@ A software project exploring digital election processes, structured information,
 
 <h3>💊 WPMS</h3>
 
-<img src="https://img.shields.io/badge/PHARMACY-MANAGEMENT-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/PHARMACY-MANAGEMENT-0F766E?style=flat-square" alt="PharmaFlow pharmacy management" />
 
 **Wambuxy Pharmaceutical Management System**
 
@@ -176,7 +176,7 @@ A pharmacy-management project designed around medicine inventory and pharmacy op
 
 <h3>🌐 John Online Services</h3>
 
-<img src="https://img.shields.io/badge/DIGITAL-ONLINE%20SERVICES-DB2777?style=flat-square" />
+<img src="https://img.shields.io/badge/DIGITAL-ONLINE%20SERVICES-DB2777?style=flat-square" alt="John Online Services digital services" />
 
 My digital-services initiative supporting students, job seekers, graduates, and businesses.
 
