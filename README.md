@@ -358,23 +358,23 @@ Each short case study describes its problem, engineering focus, review criteria,
 <div align="center">
 
 <a href="https://github.com/johncharlessarwi-dot">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=johncharlessarwi-dot&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8B5CF6&text_color=E2E8F0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=johncharlessarwi-dot&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub account summary and repository statistics" />
 </a>
 <a href="https://github.com/johncharlessarwi-dot">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncharlessarwi-dot&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=E2E8F0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncharlessarwi-dot&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=E2E8F0" alt="Most commonly represented languages across GitHub repositories" />
 </a>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=johncharlessarwi-dot&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" />
+<img width="85%" src="https://streak-stats.demolab.com?user=johncharlessarwi-dot&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" alt="GitHub contribution streak visualization" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johncharlessarwi-dot&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=JOHN%27S%20CODING%20ACTIVITY" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johncharlessarwi-dot&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=JOHN%27S%20CODING%20ACTIVITY" alt="GitHub coding activity graph" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=johncharlessarwi-dot&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=johncharlessarwi-dot&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub achievement trophy collection" />
 
 </div>
 
