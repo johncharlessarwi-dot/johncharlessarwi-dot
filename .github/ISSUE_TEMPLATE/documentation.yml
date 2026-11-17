@@ -1,0 +1,31 @@
+name: Profile documentation correction
+description: Report a broken link, outdated claim, accessibility concern, or profile display issue
+title: "docs: "
+labels: ["documentation"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Correction type
+      options:
+        - Broken project link
+        - Outdated project information
+        - Accessibility
+        - Mobile rendering
+        - Other documentation
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Include the section or asset, but no secrets or sensitive user data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Suggested correction
+      description: Include an official source when relevant.
+    validations:
+      required: true
