@@ -13,12 +13,6 @@
 <!-- JOHN CHARLES SARWI — SIGNATURE BRAND -->
 <p><a href="#about">About</a> · <a href="#toolkit">Skills</a> · <a href="#projects">Projects</a> · <a href="#contact">Contact</a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0B1120,45:172554,70:4C1D95,100:06B6D4&text=JOHN%20CHARLES%20SARWI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20TECH%20ENTREPRENEUR&descSize=13&descAlignY=55&animation=fadeIn" alt="John Charles Sarwi, software developer and AI builder" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=I+DON'T+JUST+DREAM.+I+BUILD.;TURNING+IDEAS+INTO+DIGITAL+SOLUTIONS.;ARTIFICIAL+INTELLIGENCE+%2B+SOFTWARE.;BUILDING+FROM+TANZANIA+TO+THE+WORLD.;INNOVATE.+BUILD.+IMPACT.+REPEAT." alt="Developer introduction: building practical digital solutions from Tanzania" />
-
-<br/>
-
 <a href="https://github.com/johncharlessarwi-dot">
 <img src="https://komarev.com/ghpvc/?username=johncharlessarwi-dot&style=for-the-badge&color=00F5FF&label=PROFILE+VISITS" alt="Profile visit counter" />
 </a>
