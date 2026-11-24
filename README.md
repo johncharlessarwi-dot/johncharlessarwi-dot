@@ -45,6 +45,8 @@
 <div align="center">
 
 <a id="about"></a>
+[Project directory](#engineering-project-notes) &nbsp; | &nbsp; [Collaboration](#featured-collaboration-paths)
+
 ### `01` — THE PERSON BEHIND THE CODE
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding animation"/>
